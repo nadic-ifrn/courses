@@ -1,0 +1,30 @@
+# Desenvolvimento Mobile
+
+- Princípios de design de interface para aplicativos:
+    - Design System.
+    - Figma.
+    - Dribbble e behance (outros?).
+    - Bibliotecas de componentes.
+    - Criando componentes e aplicando estilos (styled-component).
+    - Projeto 01: Protótipo no Figma para um aplicativo de gerenciamento de tarefas.
+- Introdução ao desenvolvimento de aplicativos móveis:
+    - Primeiros passos.
+    - React native e Expo.
+    - Configuração do ambiente.
+    - Projeto 02: "Olá, mundo!" -criando meu primeiro app.
+- Utilização de frameworks multiplataforma:
+    - Hooks.
+    - AsyncStorage.
+    - React-navigation.
+    - Contexto.
+    - Autenticação.
+    - Projeto 03: Aplicativo de gerenciamento de tarefas.
+- Desenvolvimento de aplicativos nativos para Android e iOS:
+    - Build e execução em dispositivo físico.
+- Integração de recursos avançados nos aplicativos, como geolocalização e notificações push:
+    - API/Axios, React-native-maps, push notifications.
+- Testes e depuração de aplicativos móveis:
+    - Validação (Formik e Yup).
+    - Depuração/Testes.    
+- Publicação de aplicativos nas lojas virtuais.
+- Projeto final: Aplicativo de oportunidade de emprego (apresenta vagas próximas ao usuário). 
