@@ -19,10 +19,27 @@ O objetivo deste curso é proporcionar aos participantes uma compreensão abrang
 * Casos de uso e aplicações da IoT;
 * Tipos de dispositivos IoT;
 * Sensores e atuadores;
+
+### Módulo 2 - Integração de dispositivos e sistemas em soluções IoT
+
+* Microcontroladores AtMega, Família Esp, RP2040
+* Kits de Desenvolvimento usados em IoT: Arduino, Dev Kit Esp, Raspberry Pi Pico;
+* Comunicação entre dispositivos;
 * Projeto prático I.
 
+### Módulo 3 - Protocolos de comunicação de rede
 
-### Módulo 2 - Protocolos de comunicação de dados 
+* Wi-Fi;
+* Ethernet;
+* Redes móveis (3G, 4G, 5G);
+* LoRaWan;
+* Bluetooth e Bluetooth Low Energy (BLE);  
+* Sigfox; 
+* NFC (Near Field Communication); 
+* Projeto prático II.
+* Projeto prático III.
+
+### Módulo 4 - Protocolos de comunicação de dados 
 
 * MQTT;
 * CoAP;
@@ -30,35 +47,13 @@ O objetivo deste curso é proporcionar aos participantes uma compreensão abrang
 * AMQP; 
 * Projeto prático II.
 
-### Módulo 3 - Protocolos de comunicação de rede
-
-* Wi-Fi;
-* Ethernet;
-* Redes móveis (3G, 4G, 5G);
-* LoRaWan; 
-* Projeto prático III.
-
-### Módulo 4 - Protocolos de comunicação sem fio
-
-* Bluetooth e Bluetooth Low Energy (BLE);  
-* Sigfox; 
-* NFC (Near Field Communication); 
-* Projeto prático IV.
-
-### Módulo 5 - Integração de dispositivos e sistemas em soluções IoT
-
-* Microcontroladores AtMega, Família Esp, RP2040
-* Kits de Desenvolvimento usados em IoT: Arduino, Dev Kit Esp, Raspberry Pi Pico;
-* Comunicação entre dispositivos;
-* Projeto prático V.
-
-### Módulo 6 - Segurança e privacidade em IoT
+### Módulo 5 - Segurança e privacidade em IoT
 
 * Segurança: Autenticação de dispositivos, autenticação de usuários, criptografia de dados, integridade dos dados, firewalls e controle de acesso; 
 * Privacidade: Coleta mínima de dados, consentimento do usuários, política de retenção de dados, acesso e controle de dados pelo usuário; 
 * Projeto prático VI.
 
-### Módulo 7 -  Desenvolvimento de aplicações IoT
+### Módulo 6 -  Desenvolvimento de aplicações IoT
 
 * Desenvolvimento de projeto final em IoT.
 
@@ -74,7 +69,6 @@ O objetivo deste curso é proporcionar aos participantes uma compreensão abrang
 * Moodle
 * Bipes
 * Wokwi
-* Tinkercad
 
 ## Referencial Bibliográfico
 
